@@ -31,4 +31,5 @@ Python | GitHub Copilot | Pandas | NumPy | Matplotlib | Seaborn | Jupyter Notebo
 
 ## 🔗 Connect
 - 📷 Instagram: [@apollo_aix](https://instagram.com/apollo_aix)
+- 💼 LinkedIn: [https://www.linkedin.com/in/apollosebastian/]
 - 🌐 GitHub Profile: [github.com/ASebastianAiX](https://github.com/ASebastianAiX)
