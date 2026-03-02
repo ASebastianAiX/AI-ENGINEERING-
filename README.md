@@ -1,31 +1,34 @@
-# AI-ENGINEERING
+# ⚙️ Purdue University- AI Engineering Portfolio — APOLLO_AiX
+**Institution:** Purdue University | Simplilearn
+**Program:** AI Engineering
+**Status:** Active | Building
 
-This repository contains **applied AI engineering projects**, focused on building, integrating, and deploying intelligent systems.
+---
 
-## Overview
-Work in this repo emphasizes **system-level AI design**, where models are components of larger applications rather than isolated experiments.
+## 🐍 Python Development Projects
 
-## Focus Areas
-- AI system architecture
-- Model integration into applications
-- API-driven AI services
-- Automation with AI agents
-- Reliability & performance considerations
+| Project | Description | Stack | Status |
+|---------|-------------|-------|--------|
+| [Customer Order Analysis](./Python-Projects/Customer-Order-Analysis) | Python fundamentals applied to order data processing and analysis | Python, Pandas | ✅ Complete |
+| [Python Adventure Game — GitHub Copilot](./Copilot-Projects/Adventure-Game) | AI-assisted game development using GitHub Copilot pair programming | Python, GitHub Copilot | ✅ Complete |
 
-## Tech Stack
-- Python
-- APIs & SDKs for AI services
-- FastAPI / backend frameworks (as applicable)
-- Docker (as applicable)
+---
 
-## Repository Structure (planned)
-- `/services` – AI-backed services
-- `/agents` – AI agents & workflows
-- `/experiments` – controlled testing
-- `/docs` – system design notes
+## 📊 Data Analysis & Business Intelligence Projects
 
-## Status
-🚧 Actively expanding with applied projects.
+| Project | Description | Stack | Status |
+|---------|-------------|-------|--------|
+| [Walmart Retail Analysis](./Data-Analysis/Walmart-Retail-Analysis) | Retail sales pattern analysis, trend identification, and forecasting | Python, Pandas, Matplotlib | ✅ Complete |
+| [Sales Analysis](./Data-Analysis/Sales-Analysis) | Sales performance metrics and business trend identification | Python, Seaborn, Statsmodels | ✅ Complete |
+| [Marketing Campaign Analysis](./Data-Analysis/Marketing-Campaign) | Campaign ROI and customer segmentation analysis | Python, Scikit-Learn | ✅ Complete |
 
-## Author
-Apollo (ASebastianAiX)
+---
+
+## 🛠️ Tech Stack
+Python | GitHub Copilot | Pandas | NumPy | Matplotlib | Seaborn | Jupyter Notebook
+
+---
+
+## 🔗 Connect
+- 📷 Instagram: [@apollo_aix](https://instagram.com/apollo_aix)
+- 🌐 GitHub Profile: [github.com/ASebastianAiX](https://github.com/ASebastianAiX)
